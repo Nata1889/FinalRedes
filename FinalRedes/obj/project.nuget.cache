@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMXDeE4Nhw8=",
+  "success": true,
+  "projectFilePath": "C:\\Redes 2024\\Redes y comunicacion\\Arduino\\FinalRedes\\FinalRedes\\FinalRedes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.0\\runtime.android-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.0\\runtime.android-x86.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.0\\runtime.linux-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.0\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.0\\runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.0\\runtime.osx-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\Natanael\\.nuget\\packages\\system.io.ports\\9.0.0\\system.io.ports.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
